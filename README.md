@@ -1,3 +1,3 @@
 # Sit-stair-Addon
 Sit stair addon JS MCPE By @wuw6248
-`sit onley oak stair`
+`sit only oak stair`
